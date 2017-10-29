@@ -1,4 +1,3 @@
 # hello-world
-Testproject to learn GIT
-
+The first line was not so good.
 Here are some changes on the readme file to checkout branching.
